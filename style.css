@@ -1,6 +1,5 @@
 
 body {
-    font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,11 +7,11 @@ body {
     margin: 0;
     flex-direction: column;
     text-align: center;
-    background-color: #554d4d;
+    background-color: #858585;
 }
 
 
-.button-container {
+.botao {
     display: flex;
     justify-content: center;
     gap: 20px; 

@@ -9,3 +9,7 @@ function moveButton() {
     movelButton.style.left = randomX + 'px';
     movelButton.style.top = randomY + 'px';
 }
+
+function fla(){
+    alert("bem vindo a nação!!!");
+}
