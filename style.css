@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    text-align: center;
+    background-color: #554d4d;
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+}
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+   
+}
+
+#movel {
+    position: absolute;
+}
